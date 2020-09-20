@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="SHOW_CLOSE_BUTTON" value="false" />
+    <option name="SHOW_DIRECTORY_FOR_NON_UNIQUE_FILENAMES" value="false" />
+    <option name="SHOW_TABS_TOOLTIPS" value="false" />
+  </component>
+</application>

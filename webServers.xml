@@ -1,0 +1,16 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d1b52459-cf35-4576-9864-ac865fc30afc" name="apiportal2" url="http://localhost">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+      <webServer id="897316e7-f1fe-49a5-b179-ade0cbcdc726" name="cmpp.seal.sk-webserver" url="http://cmpp.seal.sk">
+        <fileTransfer accessType="SFTP" host="172.31.246.50" port="22" sshConfigId="da15696c-832b-4222-a953-d36e21b70c7e" sshConfig="cdeskrc.seal.sk" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
