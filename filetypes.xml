@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <removed_mapping ext="twig" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="twiw" approved="true" type="Twig" />
-    </extensionMap>
-  </component>
-</application>

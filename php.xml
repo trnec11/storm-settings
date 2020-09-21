@@ -1,10 +1,5 @@
 <application>
   <component name="PhpDebugGeneral" xdebug_resolve_breakpoints="false" />
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="4bece26a-d3cb-4e45-b2ec-ada30ad752c0" name="PHP 5.6" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.6">
