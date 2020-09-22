@@ -3,4 +3,8 @@
     <keyboard-shortcut first-keystroke="shift alt 8" />
     <keyboard-shortcut first-keystroke="alt released f8" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift alt 7" />
+    <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
 </keymap>
