@@ -12,9 +12,9 @@
     <mask>*.mxml</mask>
     <mask>*.hbs</mask>
     <mask>*.css</mask>
-    <mask>*.twig</mask>
     <mask>*.less</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
