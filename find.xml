@@ -13,8 +13,8 @@
     <mask>*.hbs</mask>
     <mask>*.css</mask>
     <mask>*.twig</mask>
-    <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
