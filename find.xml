@@ -12,10 +12,10 @@
     <mask>*.mxml</mask>
     <mask>*.hbs</mask>
     <mask>*.css</mask>
-    <mask>*.less</mask>
     <mask>*.ts</mask>
     <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.less</mask>
   </component>
 </application>
