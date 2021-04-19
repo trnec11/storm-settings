@@ -14,8 +14,8 @@
     <mask>*.css</mask>
     <mask>*.less</mask>
     <mask>*.twig</mask>
-    <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
