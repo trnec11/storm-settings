@@ -1,8 +1,10 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="172.31.246.50" id="da15696c-832b-4222-a953-d36e21b70c7e" keyPath="$USER_HOME$/.ssh/id_rsa.ppk" port="22" customName="cdeskrc.seal.sk" nameFormat="CUSTOM" username="cmdevel" />
-      <sshConfig host="172.31.246.45" id="fb38839c-76a7-4101-b0b8-b85c9afed682" keyPath="$USER_HOME$/.ssh/id_rsa.ppk" port="22" nameFormat="DESCRIPTIVE" username="cmdevel" />
+      <sshConfig host="172.31.246.50" id="da15696c-832b-4222-a953-d36e21b70c7e" keyPath="$USER_HOME$/.ssh/id_rsa.ppk" port="22" customName="cdeskrc.seal.sk" nameFormat="CUSTOM" username="cmdevel">
+        <option name="customName" value="cdeskrc.seal.sk" />
+      </sshConfig>
+      <sshConfig host="sm.seal.sk" id="fb38839c-76a7-4101-b0b8-b85c9afed682" keyPath="$USER_HOME$/.ssh/id_rsa.ppk" port="2210" nameFormat="DESCRIPTIVE" username="root" />
     </configs>
   </component>
 </application>
