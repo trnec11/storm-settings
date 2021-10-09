@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="array," type="AUTO_DETECTED" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping pattern="scheduler-settings.twig" type="Twig" />
     </extensionMap>
